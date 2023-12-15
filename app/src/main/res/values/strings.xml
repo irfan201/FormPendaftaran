@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">FormPendaftaran</string>
+    <string-array name="tipe_sekolah">
+        <item>Negeri</item>
+        <item>Swasta</item>
+    </string-array>
+    <string-array name="provinsi">
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Sumatera Utara</item>
+        <item>Sumatera Barat</item>
+        <item>Sumatera Selatan</item>
+        <item>Sumatera Tengah</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Timur</item>
+        <item>Kalimantan Utara</item>
+        <item>Kalimantan Selatan</item>
+        <item>Sulawesi Utara</item>
+        <item>Sulawesi Tengah</item>
+        <item>Sulawesi Selatan</item>
+        <item>Sulawesi Tenggara</item>
+        <item>Bali</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Maluku</item>
+        <item>Papua</item>
+    </string-array>
+    <string-array name="KabupatenKota_Jawa_Barat">
+        <item>Kabupaten Bandung</item>
+        <item>Kabupaten Bandung Barat</item>
+        <item>Kabupaten Bekasi</item>
+        <item>Kabupaten Bogor</item>
+        <item>Kabupaten Ciamis</item>
+        <item>Kabupaten Cianjur</item>
+        <item>Kabupaten Cirebon</item>
+        <item>Kabupaten Garut</item>
+        <item>Kabupaten Indramayu</item>
+        <item>Kabupaten Karawang</item>
+        <item>Kabupaten Kuningan</item>
+        <item>Kabupaten Majalengka</item>
+        <item>Kabupaten Pangandaran</item>
+        <item>Kabupaten Purwakarta</item>
+        <item>Kabupaten Subang</item>
+        <item>Kabupaten Sukabumi</item>
+        <item>Kabupaten Sumedang</item>
+        <item>Kabupaten Tasikmalaya</item>
+        <item>Kota Tasikmalaya</item>
+        <item>Kota Banjar</item>
+        <item>Kota Bekasi</item>
+        <item>Kota Bogor</item>
+        <item>Kota Cimahi</item>
+        <item>Kota Cirebon</item>
+        <item>Kota Depok</item>
+        <item>Kota Sukabumi</item>
+        <item>Kota Tasikmalaya</item>
+    </string-array>
+    <string-array name="KabupatenKota_Jakarta">
+        <item>Kabupaten Kepulauan Seribu</item>
+        <item>Kota Jakarta Barat</item>
+        <item>Kota Jakarta Pusat</item>
+        <item>Kota Jakarta Selatan</item>
+        <item>Kota Jakarta Timur</item>
+        <item>Kota Jakarta Utara</item>
+    </string-array>
+    <string-array name="KabupatenKota_Jawa_Tengah">
+        <item>Kabupaten Banjarnegara</item>
+        <item>Kabupaten Banyumas</item>
+        <item>Kabupaten Batang</item>
+        <item>Kabupaten Blora</item>
+        <item>Kabupaten Boyolali</item>
+        <item>Kabupaten Brebes</item>
+        <item>Kabupaten Cilacap</item>
+        <item>Kabupaten Demak</item>
+        <item>Kabupaten Grobogan</item>
+        <item>Kabupaten Jepara</item>
+        <item>Kabupaten Karanganyar</item>
+        <item>Kabupaten Kebumen</item>
+        <item>Kabupaten Kendal</item>
+        <item>Kabupaten Klaten</item>
+        <item>Kabupaten Kudus</item>
+        <item>Kabupaten Magelang</item>
+        <item>Kabupaten Pati</item>
+        <item>Kabupaten Pekalongan</item>
+        <item>Kabupaten Pemalang</item>
+        <item>Kota Magelang</item>
+        <item>Kota Pekalongan</item>
+        <item>Kota Salatiga</item>
+        <item>Kota Semarang</item>
+        <item>Kota Surakarta</item>
+        <item>Kota Tegal</item>
+    </string-array>
+</resources>
